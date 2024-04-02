@@ -1,0 +1,6 @@
+C:\Users\Jonathan\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\EsepWebhook.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\EsepWebhook.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\EsepWebhook.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\EsepWebhook.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\EsepWebhook.sourcelink.json
